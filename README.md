@@ -13,3 +13,5 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 
 ~~EJEMPLO DE CURSIVA, NEGRITA Y TACHADO
 Ejemplo de texto tachado ~~TACHADO~~
+Ejemplo de texto cursiva *CURSIVA* _CURSIVA_
+Ejemplo de texto negrita **NEGRITA** __NEGRITA__
