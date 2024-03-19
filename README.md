@@ -36,3 +36,7 @@ EJEMPLO DE CHECKBOX
 - [X] Texto marcado
 - [] Texto sin marcar
 
+EJEMPLO DE BLOQUE DE CÓDIGO
+ --- bash
+    npm install
+---
