@@ -15,3 +15,24 @@ There are many variations of passages of Lorem Ipsum available, but the majority
 Ejemplo de texto tachado ~~TACHADO~~
 Ejemplo de texto cursiva *CURSIVA* _CURSIVA_
 Ejemplo de texto negrita **NEGRITA** __NEGRITA__
+
+
+EJEMPLO DE CARACTERES ESCAPADOS
+\*Esto es una frase con dos asteriscos\*
+
+EJEMPLO DE UNA CITA     
+>Un país, una casa, un pie.
+
+EJEMPLO DE LISTAS
+* ELEMENTO 1
+* ELEMENTO 2
+* ELEMENTO 3
+    1. Elemento 1
+    2. Elemento 2
+    3. Elemento 3
+ 
+EJEMPLO DE CHECKBOX
+
+- [X] Texto marcado
+- [] Texto sin marcar
+
